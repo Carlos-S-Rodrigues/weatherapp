@@ -1,0 +1,27 @@
+{
+  "currentWeather": {
+    "details": "Details",
+    "feelsLike": "Feels like:",
+    "wind": "Wind:",
+    "humidity": "Humidity:",
+    "pressure": "Pressure:"
+  },
+  "header": {
+    "title": "Weather Anywhere",
+    "language": "Language",
+    "english": "English",
+    "portuguese": "Português"
+  },
+  "forecast":{
+    "dailyForecastTitle": "Daily Forecast",
+    "pressureLabel": "Pressure:",
+    "humidityLabel": "Humidity:",
+    "cloudsLabel": "Clouds:",
+    "windSpeedLabel": "Wind Speed:",
+    "seaLevelLabel": "Sea Level:",
+    "feelsLikeLabel": "Feels Like:"
+  },
+  "search": {
+    "placeholder": "Search for city"
+  }
+}

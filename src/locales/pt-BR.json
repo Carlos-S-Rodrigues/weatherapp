@@ -1,0 +1,32 @@
+{
+  "currentWeather": {
+    "details": "Detalhes",
+    "feelsLike": "Sensação térmica:",
+    "wind": "Vento:",
+    "humidity": "Umidade:",
+    "pressure": "Pressão:"
+  },
+  "header": {
+    "title": "Tempo em Qualquer Lugar",
+    "language": "Idioma",
+    "english": "Inglês",
+    "portuguese": "Português"
+  },
+  "forecast":{
+    "dailyForecastTitle": "Previsão Diária",
+    "pressureLabel": "Pressão:",
+    "humidityLabel": "Umidade:",
+    "cloudsLabel": "Nuvens:",
+    "windSpeedLabel": "Velocidade do Vento:",
+    "seaLevelLabel": "Nível do Mar:",
+    "feelsLikeLabel": "Sensação Térmica:"
+  },
+  "search": {
+    "placeholder": "Buscar por cidade"
+  }
+}
+
+
+
+
+
